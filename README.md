@@ -1,0 +1,3 @@
+This repository contains notebooks that enable the determination of scattering parameters for solutions to the Teukolsky equation. Each notebook contains detailed step-by-step descriptions of its functionality.
+The notebook AnalyticExpansionMST allows for analytic expansion of the scattering phase factor through the Mano-Suzuki-Takasugi (MST) formalism for scalar (s = 0), electromagnetic (s = 1) and gravitational (s = 2) perturbations.
+The notebook NumericalMST allows for numerical determination of the scattering phase factor, also through MST. An extra section allows for numerical verification of convergence of the MST method.
